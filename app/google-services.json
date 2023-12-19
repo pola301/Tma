@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623728835601",
+    "project_id": "tma2-c1163",
+    "storage_bucket": "tma2-c1163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623728835601:android:300d41427a76739b1845b0",
+        "android_client_info": {
+          "package_name": "com.example.tma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68Fq6-yb4oNkuMJgIcHweShLQC2KLVG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
